@@ -57,6 +57,17 @@ Python, asyncio, pandas, uuid
 CSV file storage for collected data
 
 
+## Video demo
+
+
+
+```bash
+  https://drive.google.com/file/d/1FBynenUyUvNrmicMPaFkyiqF_MokqIcA/view?usp=sharing
+```
+## Activate Env
+
+
+
 ## Virtaul ENV
 
 Virtaul Env
