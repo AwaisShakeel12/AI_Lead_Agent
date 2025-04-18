@@ -57,13 +57,14 @@ Python, asyncio, pandas, uuid
 CSV file storage for collected data
 
 
+
+
 ## Video demo
 
+[Video Demo](https://drive.google.com/file/d/1YOcGve2ZOeI2Suyj7p5UXNICZelqVc7h/view?usp=sharing)
 
 
-```bash
-  https://drive.google.com/file/d/1FBynenUyUvNrmicMPaFkyiqF_MokqIcA/view?usp=sharing
-```
+
 ## Activate Env
 
 
@@ -108,4 +109,5 @@ Running web interface
 ```    
 ## 🚀 About Me
 AI Developer
+[Website](https://awaisshakeel12.pythonanywhere.com/)
 
